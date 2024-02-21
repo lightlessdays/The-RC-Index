@@ -7,7 +7,8 @@
     "c": "challenge the integrity of traditional political leaders",
     "d": "champion those Americans whom the author deems to be neglected",
     "e": "suggest a substitute for the traditional metaphor of a race",
-    "solution": "a"
+    "solution": "a",
+    "explanation":""
   },
   "ques2": {
     "ques": "According to the passage, “Old World” values were based on",
@@ -16,7 +17,8 @@
     "c": "family connections",
     "d": "guild hierarchies",
     "e": "education",
-    "solution": "b"
+    "solution": "b",
+    "explanation":""
   },
   "ques3": {
     "ques": "In the context of the author’s discussion of regulating change, which of the following could be most probably regarded as a “strong referee” in the United States?",
@@ -25,7 +27,8 @@
     "c": "A federal court judge",
     "d": "A social worker",
     "e": "A government inspector",
-    "solution": "c"
+    "solution": "c",
+    "explanation":""
   },
   "ques4": {
     "ques": "The author sets off the word “Reform” with quotation marks in order to",
@@ -34,7 +37,8 @@
     "c": "underscore the flexibility and even amorphousness of United States society",
     "d": "indicate that the term was one of Wilson’s favorites",
     "e": "assert that reform in the United States has not been fundamental",
-    "solution": "e"
+    "solution": "e",
+    "explanation":""
   },
   "ques5": {
     "ques": "The primary purpose of the passage is to",
@@ -43,7 +47,8 @@
     "c": "an innovative program for genuine social reform",
     "d": "a monument to the efforts of industrial reformers",
     "e": "a surprisingly “Old World” remedy for social ills",
-    "solution": "b"
+    "solution": "b",
+    "explanation":""
   },
   "ques6": {
     "ques": "Which of the following metaphors could the author most appropriately use to summarize his own assessment of the American economic system",
@@ -52,7 +57,8 @@
     "c": "A treadmill",
     "d": "A gyroscope",
     "e": "A bellows",
-    "solution": "c"
+    "solution": "c",
+    "explanation":""
   },
   "ques7": {
     "ques": "It can be inferred from the passage that Woodrow Wilson’s ideas about the economic market",
@@ -61,7 +67,8 @@
     "c": "revealed the prejudices of a man born wealthy",
     "d": "foreshadowed the stock market crash of 1929",
     "e": "began a tradition of presidential proclamations on economics",
-    "solution": "b"
+    "solution": "b",
+    "explanation":""
   },
   "ques8": {
     "ques": "The passage contains information that would answer which of the following questions?\nI. What techniques have industrialists used to manipulate a free market?\nII. In what ways are “New World” and “Old World” economic policies similar?\nIII. Has economic policy in the United States tended to reward independent action?",
@@ -70,7 +77,8 @@
     "c": "III only",
     "d": "I and II only",
     "e": "II and III only",
-    "solution": "c"
+    "solution": "c",
+    "explanation":""
   },
   "ques9": {
     "ques": "Which of the following best expresses the author’s main point?",
@@ -79,7 +87,8 @@
     "c": "The free enterprise system has been only a useless concept in the United States.",
     "d": "The myth of the American free enterprise system is seriously flawed.",
     "e": "Fascination with the ideal of “openness” has made Americans a progressive people.",
-    "solution": "d"
+    "solution": "d",
+    "explanation":""
   },
   "difficulty":"hard",
   "source":"https://gmatclub.com/forum/woodrow-wilson-was-referring-to-the-liberal-idea-of-the-77559.html?fl=similar",
