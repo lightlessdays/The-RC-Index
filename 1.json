@@ -1,4 +1,5 @@
 {
+  "title":"Art and the World",
   "rc": "One of the biggest questions facing the art world today is the dilemma over the repatriation of cultural treasures. Although the subject has not been widely noted by the general public, in recent decades museums and art dealers have repeatedly faced off against the representatives of nations and ethnic groups whose cultural legacies have been robbed by the rapacious collecting of these so-called art experts. Advocates of repatriation have argued that cultural treasures should be returned to their nations of origin, both because of basic fairness and because the artwork and cultural artifacts in question are best understood within their local context.\nSeveral prominent museums, most notably the British Museum in London and the Louvre in Paris, have defended themselves on the grounds that they can better protect and preserve these cultural treasures than can the developing nations and impoverished ethnic groups that frequently seek their return. They further argue that more people can see the treasures if they are proudly displayed in a major museum, as opposed to some poorly funded national museum in a backwater country; evidently, the quantity of viewers is more important than the relevance of the art and artifacts to the viewer.\nThe arguments of the museum curators fall apart in an instance such as the Elgin Marbles. These majestic marble sculptures, which once graced the Parthenon on the Acropolis in Athens, were stolen by Lord Elgin in the nineteenth century and given to the British Museum, which holds them to this day. The people of Athens have built a beautiful, modern museum on the Acropolis to display the Elgin Marbles and other treasures from the Greek cultural heritage, so there can be no valid argument that the Greeks are unable to house the sculptures properly. Furthermore, more people visit the Acropolis every day than visit the British Museum.",
   "ques1": {
     "ques": "Of the following, the most appropriate title for the passage above would be:",
@@ -62,5 +63,6 @@
   },
   "difficulty":"hard",
   "source":"https://gmatclub.com/forum/one-of-the-biggest-questions-facing-the-art-world-today-is-the-dilemma-266369.html",
-  "numberOfQuestions":6
+  "numberOfQuestions":6,
+  "category":"art"
 }
