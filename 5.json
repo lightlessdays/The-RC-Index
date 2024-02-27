@@ -1,0 +1,78 @@
+{
+  "title": "Wage Concessions in United States",
+  "rc": "According to many analysts, labor-management relations in the United States are undergoing a fundamental change: traditional adversarialism is giving way to a new cooperative relationship between the two sides and even to concessions from labor. These analysts say the twin shocks of nonunion competition in this country and low-cost, high-quality imports from abroad are forcing unions to look more favorably at a variety of management demands: the need for wage restraint and reduced benefits as well as the abolition of ‘rigid’ work rules, seniority rights, and job classifications. \n Sophisticated proponents of these new developments cast their observations in a prolabor light. In return for their concessions, they point out, some unions have bargained for profit sharing, retraining rights, and job-security guarantees. Unions can also trade concessions for more say on the shop floor, where techniques such as quality circles and quality-of-work-life programs promise workers greater control over their own jobs. Unions may even win a voice in investment and pricing strategy, plant location, and other major corporate policy decisions previously reserved for management. \n Opponents of these concessions from labor argue that such concessions do not save jobs but either prolong the agony of dying plants or finance the plant relocations that employers had intended anyway. Companies make investment decisions to fit their strategic plans and their profit objectives, opponents point out, and labor costs are usually just a small factor in the equation. Moreover, unrestrained by either loyalty to their work force or political or legislative constraints on their mobility, the companies eventually cut and run, concessions or no concessions. \n Wage-related concessions have come under particular attack since opponents believe that high union wages underlay much of the success of United States industry in this century. They point out that a long-standing principle, shared by both management and labor, has been that workers should earn wages that give them the income they need to buy what they make. Moreover, high wages have given workers the buying power to propel the economy forward. If proposals for pay cuts, two-tier wage systems, and subminimum wages for young workers continue to gain credence, opponents believe the U.S. social structure will move toward that of a less-developed nation: a small group of wealthy investors, a sizable but still minority bloc of elite professionals and highly skilled employees, and a huge mass of marginal workers and unskilled laborers. Further, they argue that if unions willingly engage in concession bargaining on the false grounds that labor costs are the source of a company's problems, unions will find themselves competing with Third World pay levels—a competition they cannot win.",
+  "ques1": {
+    "ques": "It can be inferred from the passage that opponents of labor concessions would most likely describe many plant-relocation decisions made by United States companies as",
+    "a": "capricious",
+    "b": "self-serving",
+    "c": "naive",
+    "d": "impulsive",
+    "e": "illogical",
+    "solution": "b",
+    "explanation": "Plant relocations are first referenced in the first sentence of the third paragraph. Then the second sentence of that paragraph states that 'companies make investment decisions to fit their strategic plans and their profit objectives'. Given the context, we can infer that a plant relocation decision would qualify as an investment decision. So, if companies make plant relocation decisions to 'fit their strategic plans and their profit objectives', such decisions would certainly be made to serve the interests of those companies. In other words, we could describe such decisions as 'self-serving'. More importantly, there is nothing in the passage suggesting that such decisions are (A) capricious (fickle/unpredictable), (C) naive (lacking informed judgment), (D) impulsive, or (E) illogical. By process of elimination, (B) is the best choice for question #1."
+  },
+  "ques2": {
+    "ques": "It can be inferred from the passage that, until recently, which of the following has been true of United States industry in the twentieth century?",
+    "a": "Unions have consistently participated in major corporate policy decisions.",
+    "b": "Maintaining adequate quality control in manufacturing processes has been a principal problem.",
+    "c": "Union workers have been paid relatively high wages.",
+    "d": "Two-tier wage systems have been the norm.",
+    "e": "Goods produced have been priced beyond the means of most workers.",
+    "solution": "c",
+    "explanation": "This answer is in reference to this line from the paragraph: ‘They point out that a long-standing principle, shared by both management and labor, has been that workers should earn wages that give them the income they need to buy what they make. Moreover, high wages have given workers the buying power to propel the economy forward.’"
+  },
+  "ques3": {
+    "ques": "The passage provides information to answer which of the following questions?",
+    "a": "What has caused unions to consider wage restraints and reduced benefits?",
+    "b": "Why do analysts study United States labor–management relations?",
+    "c": "How do job-security guarantees operate?",
+    "d": "Are investment and pricing strategies effective in combating imports?",
+    "e": "Do quality circles improve product performance and value?",
+    "solution": "a",
+    "explanation": "The passage provides information on why unions consider wage restraints and reduced benefits. It discusses the impact of nonunion competition and low-cost imports, which force unions to look favorably at various management demands, including wage restraint."
+  },
+  "ques4": {
+    "ques": "The passage is primarily concerned with the",
+    "a": "reasons for adversarialism between labor and management",
+    "b": "importance of cooperative labor-management relations",
+    "c": "consequences of labor concessions to management",
+    "d": "effects of foreign competition on the United States economy",
+    "e": "effects of nonunion competition on union bargaining strategies",
+    "solution": "c",
+    "explanation": "The passage primarily focuses on the consequences of labor concessions to management. It discusses how labor-management relations are changing, with traditional adversarialism giving way to a new cooperative relationship and concessions from labor, and examines the arguments for and against these concessions."
+  },
+  "ques5": {
+    "ques": "The sentence ‘If proposals for pay cuts … unskilled laborers’ serves primarily to",
+    "a": "disprove a theory",
+    "b": "clarify an ambiguity",
+    "c": "reconcile opposing views",
+    "d": "present a hypothesis",
+    "e": "contradict accepted data",
+    "solution": "d",
+    "explanation": "The sentence serves primarily to present a hypothesis. It introduces a scenario (proposals for pay cuts, two-tier wage systems, and subminimum wages for young workers) and explores the potential consequences, emphasizing the negative impact on the social structure of the United States."
+  },
+  "ques6": {
+    "ques": "It can be inferred from the passage that opponents of labor concessions believe that if concession bargaining continues, then",
+    "a": "plants will close instead of relocating",
+    "b": "young workers will need continued job retraining",
+    "c": "professional workers will outnumber marginal workers",
+    "d": "wealthy investors will invest in Third World countries instead of the United States",
+    "e": "the social structure of the United States will be negatively affected",
+    "solution": "e",
+    "explanation": "Opponents of labor concessions believe that if concession bargaining continues, the social structure of the United States will be negatively affected. They argue that proposals for pay cuts and other concessions will lead to a social structure resembling that of a less-developed nation."
+  },
+  "ques7": {
+    "ques": "According to the author, ‘Sophisticated proponents’ of concessions do which of the following?",
+    "a": "Support the traditional adversarialism characteristic of labor-management relations.",
+    "b": "Emphasize the benefits unions can gain by granting concessions.",
+    "c": "Focus on thorough analyses of current economic conditions.",
+    "d": "Present management's reasons for demanding concessions.",
+    "e": "Explain domestic economic developments in terms of worldwide trends.",
+    "solution": "b",
+    "explanation": "According to the author, ‘Sophisticated proponents’ of concessions emphasize the benefits unions can gain by granting concessions. They highlight that unions, in return for their concessions, can bargain for profit sharing, retraining rights, job-security guarantees, and more say on the shop floor."
+  },
+  "difficulty": "medium",
+  "source": "https://gmatclub.com/forum/according-to-many-analysts-labor-management-relations-in-the-united-294470.html",
+  "numberOfQuestions": 7,
+  "category": "economics"
+}
