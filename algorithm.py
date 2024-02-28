@@ -1,7 +1,7 @@
 numberOfQuestions = int(input("Enter number of questions"))
 difficulty = input("Enter difficulty: easy, medium or hard, in lowercase")
 title = input("Enter title:")
-rc = input ("Enter RC:")
+rc = input ("Enter RC:").replace('"',"'")
 source = input("Enter source:")
 category = input("Enter category:")
 
@@ -9,12 +9,12 @@ category = input("Enter category:")
 questions = ["","","","","","","","",""]
 i=0
 while i<numberOfQuestions:
-    question = input("Enter the question: ")
-    optionA = input("Paste all the OPTIONS together and code will take care of the rest: ")
-    optionB = input("")
-    optionC = input("")
-    optionD = input("")
-    optionE = input("")
+    question = input("Enter the question: ").replace('"',"'")
+    optionA = input("Paste all the OPTIONS together and code will take care of the rest: ").replace('"',"'")
+    optionB = input("").replace('"',"'")
+    optionC = input("").replace('"',"'")
+    optionD = input("").replace('"',"'")
+    optionE = input("").replace('"',"'")
 
     solution = input("Enter the solution in lowercase a,b,c,d,e: ")
     explanation = input("Enter the explanation:")
