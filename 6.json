@@ -1,0 +1,58 @@
+{
+  "title": "Identity of a Woman",
+  "rc": "Historians who study European women of the Renaissance try to measure ‘independence,’ ‘options,’ and other indicators of the degree to which the expression of women’s individuality was either permitted or suppressed. Influenced by Western individualism, these historians define a peculiar form of personhood: an innately bounded unit, autonomous and standing apart from both nature and society. An anthropologist, however, would contend that a person can be conceived in ways other than as an ‘individual.’ In many societies, a person’s identity is not intrinsically unique and self-contained but instead is defined within a complex web of social relationships.\nIn her study of the fifteenth-century Florentine widow Alessandra Strozzi, a historian who specializes in European women of the Renaissance attributes individual intention and authorship of actions to her subject. This historian assumes that Alessandra had goals and interests different from those of her sons, yet much of the historian’s own research reveals that Alessandra acted primarily as a champion of her sons’ interests, taking their goals as her own. Thus Alessandra conforms more closely to the anthropologist’s notion that personal motivation is embedded in a social context. Indeed, one could argue that Alessandra did not distinguish her personhood from that of her sons. In Renaissance Europe, the boundaries of the conceptual self were not always firm and closed and did not necessarily coincide with the boundaries of the bodily self.",
+  "ques1": {
+    "ques": "According to the passage, much of the research on Alessandra Strozzi done by the historian mentioned in the second paragraph supports which of the following conclusions?",
+    "a": "Alessandra used her position as her sons' sole guardian to further interests different from those of her sons.",
+    "b": "Alessandra unwillingly sacrificed her own interests in favor of those of her sons.",
+    "c": "Alessandra's actions indicate that her motivations and intentions were those of an independent individual.",
+    "d": "Alessandra's social context encouraged her to take independent action.",
+    "e": "Alessandra regarded her sons' goals and interests as her own.",
+    "solution": "e",
+    "explanation": "The passage states that Alessandra, according to the historian, primarily acted as a champion of her sons' interests, taking their goals as her own. This supports the conclusion that Alessandra did not distinguish her personhood from that of her sons."
+  },
+  "ques2": {
+    "ques": "In the first paragraph, the author of the passage mentions a contention that would be made by an anthropologist most likely in order to",
+    "a": "present a theory that will be undermined in the discussion of a historian's study later in the passage",
+    "b": "offer a perspective on the concept of personhood that can usefully be applied to the study of women in Renaissance Europe",
+    "c": "undermine the view that the individuality of European women of the Renaissance was largely suppressed",
+    "d": "argue that anthropologists have applied the Western concept of individualism in their research",
+    "e": "lay the groundwork for the conclusion that Alessandra's is a unique case among European women of the Renaissance whose lives have been studied by historians",
+    "solution": "b",
+    "explanation": "The anthropologist's contention is mentioned to introduce the idea that personhood can be conceived in ways other than as an 'individual,' laying the groundwork for the discussion of Alessandra Strozzi in the subsequent paragraphs."
+  },
+  "ques3": {
+    "ques": "The passage suggests that the historians referred to in line 1 make which of the following assumptions about Renaissance Europe?",
+    "a": "That anthropologists overestimate the importance of the individual in Renaissance European society",
+    "b": "That in Renaissance Europe, women were typically allowed to express their individuality",
+    "c": "That European women of the Renaissance had the possibility of acting independently of the social context in which they lived",
+    "d": "That studying an individual such as Alessandra is the best way to draw general conclusions about the lives of women in Renaissance Europe",
+    "e": "That people in Renaissance Europe had greater personal autonomy than people do currently",
+    "solution": "c",
+    "explanation": "The historians assume that European women of the Renaissance had the possibility of acting independently of the social context, as they measure the degree to which the expression of women's individuality was either permitted or suppressed."
+  },
+  "ques4": {
+    "ques": "It can be inferred that the author of the passage believes which of the following about the study of Alessandra Strozzi done by the historian mentioned in the second paragraph?",
+    "a": "Alessandra was atypical of her time and was therefore an inappropriate choice for the subject of the historian's research.",
+    "b": "In order to bolster her thesis, the historian adopted the anthropological perspective on personhood.",
+    "c": "The historian argues that the boundaries of the conceptual self were not always firm and closed in Renaissance Europe.",
+    "d": "In her study, the historian reverts to a traditional approach that is out of step with the work of other historians of Renaissance Europe.",
+    "e": "The interpretation of Alessandra's actions that the historian puts forward is not supported by much of the historian's research.",
+    "solution": "e",
+    "explanation": "The author suggests that much of the historian's research on Alessandra Strozzi does not support the conclusion that Alessandra had goals and interests different from those of her sons, as the historian initially assumed."
+  },
+  "ques5": {
+    "ques": "The passage suggests that the historian mentioned in the second paragraph would be most likely to agree with which of the following assertions regarding Alessandra Strozzi?",
+    "a": "Alessandra was able to act more independently than most women of her time because she was a widow.",
+    "b": "Alessandra was aware that her personal motivation was embedded in a social context.",
+    "c": "Alessandra had goals and interests similar to those of many other widows in her society.",
+    "d": "Alessandra is an example of a Renaissance woman who expressed her individuality through independent action.",
+    "e": "Alessandra was exceptional because she was able to effect changes in the social constraints placed upon women in her society.",
+    "solution": "d",
+    "explanation": "The passage indicates that the historian, despite assuming initially that Alessandra had different goals and interests, would be likely to agree that Alessandra conformed more closely to the anthropologist's notion that personal motivation is embedded in a social context."
+  },
+  "difficulty": "medium",
+  "source": "https://gmatclub.com/forum/historians-who-study-european-women-of-the-renaissance-try-to-measure-268528.html",
+  "numberOfQuestions": 5,
+  "category": "history"
+}
