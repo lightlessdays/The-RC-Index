@@ -1,0 +1,38 @@
+{
+  "title": "The Warming Disparity",
+  "rc": "Scientists have been puzzled by the seeming DISPARITY between models of global warming based on greenhouse gas emissions and actual climatological data. In short, the world is not warming up as much as these models have predicted. In the early 1990s, Pat Michaels sought to explain this disparity, suggesting that sulfate emissions in industrial areas had a cooling effect, thus temporarily retarding global warming. Michaels later came to doubt this idea, however, pointing out that since most sulfate is emitted in the Northern Hemisphere, its cooling influence should be largely limited to that hemisphere. Yet, since 1987, warming in the Southern Hemisphere, which had been relatively intense, has virtually ceased, while warming in the north has accelerated. Thus, Michaels not only doubted the idea of sulfate cooling but came to feel that global warming models themselves may be flawed.",
+  "ques1": {
+    "ques": "The passage suggests that, in the early 1990s, Michaels would have been most likely to agree with which of the following statements about the disparity mentioned in the first sentence?",
+    "a": "This disparity is relatively less extreme in the Northern Hemisphere because of sulfate cooling.",
+    "b": "This disparity is only a short-term phenomenon brought about by sulfate cooling.",
+    "c": "This disparity is most significant in those parts of the world dominated by oceans.",
+    "d": "The extent of this disparity is being masked by the temporary effect of sulfate cooling.",
+    "e": "The disparity confirms that current models of global warming are correct.",
+    "solution": "b",
+    "explanation": "In the early 1990s, Michaels suggested that sulfate emissions had a cooling effect, temporarily retarding global warming. This aligns with option (b) as Michaels would likely agree that the disparity is a short-term phenomenon caused by sulfate cooling."
+  },
+  "ques2": {
+    "ques": "According to the passage, Santer asserts which of the following about global warming?",
+    "a": "It will become a more serious problem in the Southern Hemisphere than in the Northern Hemisphere in spite of the cooling influence of oceans in the south.",
+    "b": "It is unlikely to be a serious problem in the future because of the pervasive effect of sulfate cooling.",
+    "c": "It will proceed at the same general rate in the Northern and Southern Hemispheres once the temporary influence of sulfate cooling comes to an end.",
+    "d": "Until the late 1980s, it was moderated in the Northern Hemisphere by the effect of sulfate cooling.",
+    "e": "Largely because of the cooling influence of oceans, it has had no discernible impact on the Southern Hemisphere.",
+    "solution": "d",
+    "explanation": "The passage mentions that since 1987, warming in the Southern Hemisphere has virtually ceased, while warming in the north has accelerated. This aligns with option (d), indicating that until the late 1980s, global warming was moderated in the Northern Hemisphere by the effect of sulfate cooling."
+  },
+  "ques3": {
+    "ques": "The passage suggests that Santer and Michaels would be most likely to DISAGREE over which of the following issues?",
+    "a": "Whether climatological data invalidates global warming models",
+    "b": "Whether warming in the Northern Hemisphere has intensified since 1987",
+    "c": "Whether disparities between global warming models and climatological data can be detected",
+    "d": "Whether landmasses warm more rapidly than oceans",
+    "e": "Whether oceans have a significant effect on global climate patterns",
+    "solution": "a",
+    "explanation": "The passage does not provide information on Santer's perspective regarding whether climatological data invalidates global warming models. Therefore, option (a) is the most appropriate choice for disagreement."
+  },
+  "difficulty": "hard",
+  "source": "\n",
+  "numberOfQuestions": 3,
+  "category": "science"
+}
