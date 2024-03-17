@@ -1,0 +1,67 @@
+{
+  "title":"Theft or Art",
+  "rc": "One of the biggest questions facing the art world today is the dilemma over the repatriation of cultural treasures. Although the subject has not been widely noted by the general public, in recent decades museums and art dealers have repeatedly faced off against the representatives of nations and ethnic groups whose cultural legacies have been robbed by the rapacious collecting of these so-called art experts. Advocates of repatriation have argued that cultural treasures should be returned to their nations of origin, both because of basic fairness and because the artwork and cultural artifacts in question are best understood within their local context.\nSeveral prominent museums, most notably the British Museum in London and the Louvre in Paris, have defended themselves on the grounds that they can better protect and preserve these cultural treasures than can the developing nations and impoverished ethnic groups that frequently seek their return. They further argue that more people can see the treasures if they are proudly displayed in a major museum, as opposed to some poorly funded national museum in a backwater country; evidently, the quantity of viewers is more important than the relevance of the art and artifacts to the viewer.\nThe arguments of the museum curators fall apart in an instance such as the Elgin Marbles. These majestic marble sculptures, which once graced the Parthenon on the Acropolis in Athens, were stolen by Lord Elgin in the nineteenth century and given to the British Museum, which holds them to this day. The people of Athens have built a beautiful, modern museum on the Acropolis to display the Elgin Marbles and other treasures from the Greek cultural heritage, so there can be no valid argument that the Greeks are unable to house the sculptures properly. Furthermore, more people visit the Acropolis every day than visit the British Museum.",
+  "ques1": {
+    "ques": "Of the following, the most appropriate title for the passage above would be:",
+    "a": "The Elgin Marbles: Timeless Symbols of the Glory That Was Greece",
+    "b": "The Role of Great Museums in the Preservation of Cultural Artifacts",
+    "c": "Repatriation of Cultural Treasures: The British Museum’s Dirty Little Secret",
+    "d": "The Value of Cultural Treasures in Defining National Identity",
+    "e": "A Curious Curator: Lord Elgin and the Rise of the British Museum",
+    "solution": "c",
+    "explanation":"The main subject of the passage is the debate over the repatriation of cultural treasures; the passage states that the subject is not widely noted by the outside world, hence “secret”; and the passage presents the British Museum in a negative light, hence “dirty little secret.”"
+  },
+  "ques2": {
+    "ques": "The third paragraph plays what role in the passage?",
+    "a": "It summarizes all the points expressed in the first two paragraphs.",
+    "b": "It raises new arguments that expand on those previously expressed.",
+    "c": "It suggests a possible area for useful research in the future.",
+    "d": "It rejects the arguments expressed in the first paragraph.",
+    "e": "It provides concrete evidence against arguments expressed in the second paragraph.",
+    "solution": "e",
+    "explanation":"The example of the Elgin Marbles is used to poke holes in the arguments of museum curators expressed in the second paragraph."
+  },
+  "ques3": {
+    "ques": "The situation involving the repatriation of the Elgin Marbles to Athens is most similar to which of the following?",
+    "a": "A Native American tribe in Oregon requests that a museum in Chicago return some ceremonial masks that could help in fundraising efforts to build a proposed museum in Portland.",
+    "b": "The nation of Peru in South America threatens the nation of Ecuador with military action if Ecuador does not hand over various gold artifacts of the Inca Empire, which originated in Peru.",
+    "c": "The National Archeology Museum of Cairo in Egypt requests that the Louvre return eight mummies from the time of Ramses the Great for the Cairo Museum’s new exhibit hall dedicated to artifacts from Ramses’ court.",
+    "d": "The nation of Greece requests the nation of Turkey to provide Greek archeologists with free access to ancient Greek sites on the Ionian coast of Turkey, and to transfer any cultural artifacts found there to the National Archeology Museum in Athens.",
+    "e": "A museum in Baton Rouge, Louisiana, requests that the Texas History Museum in Austin, Texas, send the original “Lone Star” flag to Baton Rouge for a new exhibit entitled, “Texas: Our Neighbor to the East.”",
+    "solution": "c",
+    "explanation":"In both C and the description of the Elgin Marbles issue in the text, there is an existing museum, presumably capable of both protecting and preserving cultural artifacts, that is seeking the return of cultural treasures to display in a newly created space among relevant cultural context."
+  },
+  "ques4": {
+    "ques": "What is the purpose of the final sentence of the passage?",
+    "a": "To express pride in the cultural treasures of Athens",
+    "b": "To refute the argument that more people can see the Elgin Marbles at the British Museum than at the Acropolis",
+    "c": "To comment on the relative number of tourists at two of Europe’s most famous tourist attractions",
+    "d": "To express concern that the large number of tourists on the Acropolis will damage the Elgin Marbles, should they be returned",
+    "e": "To provide an appropriate end to a rousing debate",
+    "solution": "b",
+    "explanation":"The purpose of the final sentence of the passage is to refute the argument that more people can see the Elgin Marbles at the British Museum than at the Acropolis. The passage mentions that 'more people visit the Acropolis every day than visit the British Museum,' providing evidence that contradicts the idea that displaying the treasures in a major museum attracts more viewers."
+  },
+  "ques5": {
+    "ques": "The author’s attitude toward museum curators who oppose the repatriation of cultural treasures is best summarized as what?",
+    "a": "Righteous indignation",
+    "b": "Bemused sarcasm",
+    "c": "Seething anger",
+    "d": "Condescending approval",
+    "e": "Grudging admiration",
+    "solution": "a",
+    "explanation":"The correct answer is A. The author’s tone is certainly critical, as seen in terms such as “robbed” and “so-called art experts” and in the argument as a whole. The author’s hostility to the museum curators does not rise to the level of “seething anger,” however, and only one of the sentences (“evidently, the quantity of viewers…”) could accurately be described as “bemused sarcasm,” whereas the tone of the entire passage could be characterized as “indignant.”"
+  },
+  "ques6": {
+    "ques": "Which of the following, if true, would best support the position taken by the advocates of repatriation, as expressed in the first paragraph?",
+    "a": "Of seven gold Inca statues sent from the Field Museum in Chicago to the National Archeology Museum in Lima, Peru, four were stolen within six months of being put on display.",
+    "b": "Mummies taken from the dry heat of Egypt and relocated to the damp climate of London have shown disturbing signs of decay.",
+    "c": "Operating a first-rate art and archeology museum is financially unfeasible for most developing nations, which face a difficult enough challenge feeding their people.",
+    "d": "A type of sculpture from central Africa appears dull and nondescript in a museum setting, but when placed in the region of its origin can clearly be seen to replicate the colors and shapes of local rock formations.",
+    "e": "British colonists in India in the nineteenth century felt that it was their right to claim the nation’s artistic treasures as their own in exchange for importing the benefits of a modern industrial society.",
+    "solution": "d",
+    "explanation":"The statement that would best support the position taken by the advocates of repatriation, as expressed in the first paragraph, is option (d): 'A type of sculpture from central Africa appears dull and nondescript in a museum setting, but when placed in the region of its origin can clearly be seen to replicate the colors and shapes of local rock formations.' This example illustrates the importance of displaying cultural artifacts in their original context for a better understanding of their aesthetic and cultural significance."
+  },
+  "difficulty":"easy",
+  "source":"https://gmatclub.com/forum/one-of-the-biggest-questions-facing-the-art-world-today-is-the-dilemma-266369.html",
+  "numberOfQuestions":6
+}
