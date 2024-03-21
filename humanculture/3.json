@@ -1,1 +1,38 @@
-
+{
+  "title":"The Runes",
+  "rc":"The first systems of writing developed and used by the Germanic peoples were runic alphabets. The runes functioned as letters, but they were much more than just letters in the sense in which we today understand the term. Each rune was an ideographic or pictographic symbol of some cosmological principle or power, and to write a rune was to invoke and direct the force for which it stood. Indeed, in every Germanic language, the word “rune” (from Proto-Germanic *runo) means both “letter” and “secret” or “mystery,” and its original meaning, which likely predated the adoption of the runic alphabet, may have been simply “(hushed) message.”\nEach rune had a name that hinted at the philosophical and magical significance of its visual form and the sound for which it stands, which was almost always the first sound of the rune’s name. For example, the T-rune, called *Tiwaz in the Proto-Germanic language, is named after the god Tiwaz (known as Tyr in the Viking Age). Tiwaz was perceived to dwell within the daytime sky, and, accordingly, the visual form of the T-rune is an arrow pointed upward (which surely also hints at the god’s martial role). The T-rune was often carved as a standalone ideograph, apart from the writing of any particular word, as part of spells cast to ensure victory in battle.\nThe runic alphabets are called “futharks” after the first six runes (Fehu, Uruz, Thurisaz, Ansuz, Raidho, Kaunan), in much the same way that the word “alphabet” comes from the names of the first two Hebrew letters (Aleph, Beth). There are three principal futharks: the 24-character Elder Futhark, the first fully-formed runic alphabet, whose development had begun by the first century CE and had been completed before the year 400; the 16-character Younger Futhark, which began to diverge from the Elder Futhark around the beginning of the Viking Age (c. 750 CE) and eventually replaced that older alphabet in Scandinavia; and the 33-character Anglo-Saxon Futhorc, which gradually altered and added to the Elder Futhark in England. On some inscriptions, the twenty-four runes of the Elder Futhark were divided into three ættir (Old Norse, “families”) of eight runes each, but the significance of this division is unfortunately unknown.\nRunes were traditionally carved onto stone, wood, bone, metal, or some similarly hard surface rather than drawn with ink and pen on parchment. This explains their sharp, angular form, which was well-suited to the medium.\nMuch of our current knowledge of the meanings the ancient Germanic peoples attributed to the runes comes from the three “Rune Poems,” documents from Iceland, Norway, and England that provide a short stanza about each rune in their respective futharks (the Younger Futhark is treated in the Icelandic and Norwegian Rune Poems, while the Anglo-Saxon Futhorc is discussed in the Old English Rune Poem).\nWhile runologists argue over many of the details of the historical origins of runic writing, there is widespread agreement on a general outline. The runes are presumed to have been derived from one of the many Old Italic alphabets in use among the Mediterranean peoples of the first century CE, who lived to the south of the Germanic tribes. Earlier Germanic sacred symbols, such as those preserved in northern European petroglyphs, were also likely influential in the development of the script.\nThe earliest possibly runic inscription is found on the Meldorf brooch, which was manufactured in the north of modern-day Germany around 50 CE. The inscription is highly ambiguous, however, and scholars are divided over whether its letters are runic or Roman. The earliest unambiguous runic inscriptions are found on the Vimose comb from Vimose, Denmark and the Øvre Stabu spearhead from southern Norway, both of which date to approximately 160 CE. The earliest known carving of the entire futhark, in order, is that on the Kylver stone from Gotland, Sweden, which dates to roughly 400 CE.\nThe transmission of writing from southern Europe to northern Europe likely took place via Germanic warbands, the dominant northern European military institution of the period, who would have encountered Italic writing firsthand during campaigns amongst their southerly neighbors. This hypothesis is supported by the association that runes have always had with the god Odin, who, in the Proto-Germanic period, under his original name *Woðanaz, was the divine model of the human warband leader and the invisible patron of the warband’s activities. The Roman historian Tacitus tells us that Odin (“Mercury” in the interpretatio romana) was already established as the dominant god in the pantheons of many of the Germanic tribes by the first century.\nFrom the perspective of the ancient Germanic peoples themselves, however, the runes came from no source as mundane as an Old Italic alphabet. The runes were never “invented,” but are instead eternal, pre-existent forces that Odin himself discovered by undergoing a tremendous ordeal.",
+  
+  "ques1": {
+    "ques": "Which of the following can be inferred from the passage?\na. Runic script was most likely derived from Old Italic script.\nb. Runes were not used so much as a simple writing system, but rather as magical signs to be used for charms.\nc. In the Proto-Germanic period, the god Tiwaz was associated with war, victory, marriage and the diurnal sky.\nd. The knowledge of the meanings attributed to the runes of the Younger Futhark is derived from the three Rune poems.",
+    "a": "All the above",
+    "b": "ii and iv",
+    "c": "i, ii and iv",
+    "d": "i and iii",
+    "e": "iii and iv",
+    "solution": "d",
+    "explanation":"The RC clearly states that 'The runes are presumed to have been derived from one of the many Old Italic alphabets in use among the Mediterranean peoples of the first century CE, who lived to the south of the Germanic tribes.' Hence, i is definitely correct. The entire passage talks about runes being a writing system. Nowhere does it state that runes are magical symbols. Hence, ii is incorrect. The only option that has i but not ii is D and hence it must be the correct answer."
+  },
+  "ques2": {
+    "ques": "Which of the following statements is incorrect?",
+    "a": "Unlike the Latin alphabet, which is an essentially utilitarian script, the runes are symbols of some of the most powerful forces in the cosmos",
+    "b": "Runic writing was probably first used in southern Europe and was carried north by Germanic tribes.",
+    "c": "The word “rune” and its meaning was derived from the runic alphabet.",
+    "d": "The first runic alphabets date back to the 1st century CE.",
+    "e": "All of the above are correct.",
+    "solution": "c",
+    "explanation":"The first paragraph states that Runes 'likely predated the adoption of the runic alphabet'. Hence, option c is incorrect."
+  },
+  "ques3": {
+    "ques": "Which of the following cannot be reasonably inferred with regard to the beliefs of the Proto-Germanic people?",
+    "a": "Odin came upon the runes after going through a lot of torment.",
+    "b": "The name of a rune was almost always the first sound of a God’s name",
+    "c": "The cosmological power represented by a rune was invoked by writing it.",
+    "d": "Proto-German Gods were modeled on humans.",
+    "e": "Thor was the son of Odin",
+    "solution": "b",
+    "explanation":"Each rune had a name which was almost always the first sound of the rune’s name. Though the example of the T rune and Tiwaz is given in the passage, it is not stated as a general rule that the name of a rune is the first sound of a God’s name. It is the first sound of the rune’s name."
+  },
+  "difficulty":"medium",
+  "source":"https://iim-cat-questions-answers.2iim.com/verbal/reading-comprehension/RC_1-4.shtml",
+  "numberOfQuestions":3
+}
